@@ -1,0 +1,7 @@
+interface:
+  display_name: "AutoBoard"
+  short_description: "构建可公开、定时刷新且可追溯的信息看板工作流"
+  default_prompt: "Use $autoboard to build a public automated dashboard from official sources with source-health reporting."
+
+policy:
+  allow_implicit_invocation: true
